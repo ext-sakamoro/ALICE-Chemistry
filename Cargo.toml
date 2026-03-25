@@ -2,7 +2,7 @@
 name = "alice-chemistry"
 version = "1.0.0"
 edition = "2021"
-authors = ["Moroya Sakamoto"]
+authors = ["Moroya Sakamoto <sakamoro@alicelaw.net>"]
 license = "MIT OR Apache-2.0"
 description = "Molecular dynamics and chemistry simulation: force fields, reaction kinetics, thermodynamics, periodic table"
 
