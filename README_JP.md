@@ -48,4 +48,6 @@ alice-chemistry
 
 ## ライセンス
 
-MIT OR Apache-2.0
+`LicenseRef-Proprietary` 条文は [LICENSE-Proprietary](LICENSE-Proprietary)
+
+Enquiries: https://extoria.co.jp/
